@@ -8,4 +8,4 @@ MPh（Pythonic scripting interface for COMSOL Multiphysics）仿真自动化技�
   - `SKILL.md` — 主指令
   - `references/` — API 速查、工作流、排障、本机环境
   - `scripts/` — 环境体检、文档抓取脚本
-- **维护**：dsh-agent；内容如有出入，以 https://mph.readthedocs.io 为准
+- **维护**：Yuze-Liu；内容如有出入，以 https://mph.readthedocs.io 为准

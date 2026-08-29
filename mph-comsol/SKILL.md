@@ -5,7 +5,7 @@ category: engineering
 license: MIT
 metadata:
     os: ["win32"]
-    skill-author: dsh-agent (封装自 MPh 官方文档 v1.3.2)
+    skill-author: Yuze-Liu (封装自 MPh 官方文档 v1.3.2)
     requires:
         pythonPackages: ["JPype1", "numpy"]
 ---

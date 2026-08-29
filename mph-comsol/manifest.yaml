@@ -1,7 +1,7 @@
 name: mph-comsol
 version: 1.0.0
 description: MPh Pythonic scripting interface for COMSOL Multiphysics - simulation automation skill
-author: dsh-agent
+author: Yuze-Liu
 license: MIT
 source: https://github.com/MPh-py/MPh (v1.3.2 docs)
 os: [win32]

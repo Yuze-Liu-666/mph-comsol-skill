@@ -1,0 +1,12 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 本地覆盖（如某台机器的环境事实改写）
+# references/local-environment.md 按需保留，默认纳入版本控制
